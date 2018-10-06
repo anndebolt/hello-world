@@ -1,3 +1,3 @@
 # hello-world
 just getting started again
-testing
+this project does not do anything yet.
